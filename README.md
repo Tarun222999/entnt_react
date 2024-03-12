@@ -1,4 +1,4 @@
-
+<img width="947" alt="Screenshot 2024-03-12 222224" src="https://github.com/Tarun222999/entnt_react/assets/111749548/05a379c8-0f0f-48ec-a691-b579cc553541">
 # ERP MANAGER
 
 ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently
@@ -45,4 +45,11 @@ Start the server
   npm run start
 ```
 
-https://drive.google.com/file/d/1Vm5A7Djxk3p7AQ0WIvvEcOzxh0Oz_DwK/view
+Dashboard Page
+<img width="947" alt="Screenshot 2024-03-12 222224" src="https://github.com/Tarun222999/entnt_react/assets/111749548/fe5560d2-130d-4811-ae1f-585d92f09e6d">
+Products Page
+<img width="943" alt="Screenshot 2024-03-12 222246" src="https://github.com/Tarun222999/entnt_react/assets/111749548/5a94b983-2dbd-4ed4-a13e-6ee54b81bab0">
+Orders Page
+<img width="951" alt="Screenshot 2024-03-12 222305" src="https://github.com/Tarun222999/entnt_react/assets/111749548/2632f2b4-7888-4f45-a1af-289d7c817ee3">
+Orders Calender View
+<img width="945" alt="Screenshot 2024-03-12 222322" src="https://github.com/Tarun222999/entnt_react/assets/111749548/7eabf831-b6a9-4d8d-b5c5-a0f02441af5f">
