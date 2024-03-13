@@ -3,12 +3,11 @@ import Calendar from 'react-calendar';
 import 'react-calendar/dist/Calendar.css';
 
 const OrderCalendar = () => {
-
     const [orders, setOrders] = useState([]);
 
     useEffect(() => {
 
-        fetch('../../order.json')
+        fetch('https://api.npoint.io/e42dff5533b656467775')
             .then(response => response.json())
             .then(data => setOrders(data))
             .catch(error => console.error('Error fetching orders:', error));
